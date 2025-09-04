@@ -25,4 +25,5 @@ This project focuses on **Energy Trading and Risk Management (ETRM) data ingesti
 ### ⚡ Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ETRM-Data-Analysis.git
+   git clone https://github.com/Esha-git/ETRM-Data-Analysis.git
+
